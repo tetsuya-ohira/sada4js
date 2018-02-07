@@ -6,7 +6,7 @@
 
 ```
 $ npm install express-generator -g
-$ express sada4j
+$ express sada4js
 ```
 
 ## run
