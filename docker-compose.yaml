@@ -1,0 +1,7 @@
+version: '3'
+services:
+    sada4js:
+        build: './'
+        container_name: 'sada4js'
+        ports:
+            - 3000:3000
